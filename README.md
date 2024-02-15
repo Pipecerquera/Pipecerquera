@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Mi nombre es Daniel Felipe Cerquera idrobo, tengo 17 años,
+soy de un municipio muy lindo que se llama Santa Maria ubicado al noroccidente del huila,
+somos cinco integrantes en la familia, somos tres hermanos, yo soy el hermano del medio, siendo mi hermana la mayor y otro niño pequeño.
+voy en tercer semestre de ingenieria de sistemas en la corporacion universitaria del Huila (corhuila) en el municipio de Neiva huila,
+en nuestros tiempos libres jugamos ping pong con mis compañeros, y tambien me gusta jugar futbol.
+
 <!--
 **Pipecerquera/Pipecerquera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
