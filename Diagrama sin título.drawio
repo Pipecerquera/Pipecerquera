@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T15:01:30.806Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.2" etag="84rbZ3xDf4NKBbrIqUA2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T15:14:25.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PzJc2ua1SKoxoP6_CUNR" version="24.0.2" type="github">
   <diagram name="Página-1" id="F9hq08aDuLMarQMbd_7l">
-    <mxGraphModel>
+    <mxGraphModel dx="666" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-1" value="TIPOS DE LENGUAJE DE PROGRAMACION Y EJEMPLOS DE LENGUAJES&amp;nbsp; DE PROGRAMACION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-3" value="Hay lenguajes de pramacion de alto y bajo nivel, con proposito general y proposito especifico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVZdEhrCW52wcG2D_6dY-3" target="ZVZdEhrCW52wcG2D_6dY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="260" as="sourcePoint" />
+            <mxPoint x="380" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVZdEhrCW52wcG2D_6dY-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="350" as="sourcePoint" />
+            <mxPoint x="370" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-7" value="AQUI UNOS EJEMPLOS DE LENGUAJES DE PROGRAMACION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVZdEhrCW52wcG2D_6dY-7" target="ZVZdEhrCW52wcG2D_6dY-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="400" as="sourcePoint" />
+            <mxPoint x="370" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-11" value="-Python&lt;div&gt;-Java&lt;/div&gt;&lt;div&gt;Javascript&lt;/div&gt;&lt;div&gt;c++&lt;/div&gt;&lt;div&gt;c#&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVZdEhrCW52wcG2D_6dY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="90" as="sourcePoint" />
+            <mxPoint x="480" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-14" value="dejare unos ejemplos de frameworks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="110" as="sourcePoint" />
+            <mxPoint x="540" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-16" value="Django&lt;div&gt;Spring&lt;/div&gt;&lt;div&gt;Express.js&lt;/div&gt;&lt;div&gt;Ruby on Rails&lt;/div&gt;&lt;div&gt;Laravel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="230" as="sourcePoint" />
+            <mxPoint x="540" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-18" value="Asi como dejare tambien unaas estructuras de control para manejar el flujo de ejecucion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVZdEhrCW52wcG2D_6dY-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="450" as="sourcePoint" />
+            <mxPoint x="540" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVZdEhrCW52wcG2D_6dY-20" value="if-else&lt;div&gt;for&lt;/div&gt;&lt;div&gt;while&lt;/div&gt;&lt;div&gt;switch&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
