@@ -1,22 +1,22 @@
-### Hi there 👋
+**Daniel Felipe Cerquera Idrobo**  
+*Estudiante de Ingeniería de Sistemas | Desarrollo de Software | Análisis y Modelado*  
+📍 Santa María, Huila | Neiva, Huila  
 
-Mi nombre es Daniel Felipe Cerquera idrobo, tengo 17 años,
-soy de un municipio muy lindo que se llama Santa Maria ubicado al noroccidente del huila,
-somos cinco integrantes en la familia, somos tres hermanos, yo soy el hermano del medio, siendo mi hermana la mayor y otro niño pequeño.
-voy en tercer semestre de ingenieria de sistemas en la corporacion universitaria del Huila (corhuila) en el municipio de Neiva huila,
-en nuestros tiempos libres jugamos ping pong con mis compañeros, y tambien me gusta jugar futbol.
+### ¡Hola! 👋  
+Soy Daniel Felipe Cerquera Idrobo, estudiante de Ingeniería de Sistemas en la Corporación Universitaria del Huila (Corhuila), actualmente en quinto semestre. Desde siempre, me ha apasionado el mundo del desarrollo de software y la tecnología, enfocándome en la construcción de soluciones innovadoras y eficientes.  
 
-<!--
-**Pipecerquera/Pipecerquera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Educación  
+- **Ingeniería de Sistemas** (En curso) - *Corporación Universitaria del Huila (Corhuila)*  
 
-Here are some ideas to get you started:
+### Habilidades Técnicas  
+✅ Programación en Java, Python y SQL  
+✅ Desarrollo Backend con Spring Boot  
+✅ Modelado de Bases de Datos SQL  
+✅ Análisis y diseño de software  
+✅ Estructuración de proyectos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Enfoque Profesional  
+Me interesa el desarrollo de software de calidad, siguiendo buenas prácticas y metodologías ágiles para garantizar soluciones escalables y mantenibles. Busco mejorar constantemente mis habilidades para aportar al crecimiento del sector tecnológico y la comunidad.  
+
+### Contacto  
+📧 Correo electrónico: [Cerqueradanielfelipe@gmail.com]   
