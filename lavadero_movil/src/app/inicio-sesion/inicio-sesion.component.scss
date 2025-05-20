@@ -1,0 +1,23 @@
+// Add your SCSS styles for inicio-sesion.component here
+
+.image-container {
+  text-align: center;
+  margin-bottom: 2rem;
+  img {
+    width: 60%;
+    max-width: 300px;
+  }
+}
+
+.form-container {
+  text-align: center;
+  h2 {
+    margin-bottom: 1.5rem;
+  }
+  .ion-margin-top {
+    margin-top: 1rem;
+  }
+  .ion-margin-bottom {
+    margin-bottom: 1rem;
+  }
+}

@@ -1,0 +1,46 @@
+<ion-content class="ion-padding">
+  <div class="image-container ion-text-center">
+    <img src="assets/Imagen6.png" alt="Lavadero Luxury" style="width: 60%; max-width: 300px;">
+  </div>
+
+  <div class="form-container ion-text-center">
+    <h2 class="ion-margin-bottom">Iniciar sesión</h2>
+
+    <form (ngSubmit)="iniciarSesion()">
+      <ion-item>
+        <ion-icon slot="start" name="mail-outline"></ion-icon>
+        <ion-input
+          type="email"
+          autocomplete="email"
+          placeholder="Ingrese su correo"
+          [(ngModel)]="usuario.correo"
+          name="loginCorreo"
+          required>
+        </ion-input>
+      </ion-item>
+
+      <ion-item>
+        <ion-icon slot="start" name="lock-closed-outline"></ion-icon>
+        <ion-input
+          type="password"
+          autocomplete="current-password"
+          placeholder="Ingrese su contraseña"
+          [(ngModel)]="usuario.password"
+          name="loginPassword"
+          required>
+        </ion-input>
+      </ion-item>
+
+      <ion-button expand="block" type="submit" color="dark" class="ion-margin-top">Ingresar</ion-button>
+    </form>
+
+    <ion-button fill="clear" (click)="abrirRecuperacion()" class="ion-margin-top">
+      ¿Olvidaste tu contraseña?
+    </ion-button>
+
+    <p class="ion-margin-top">
+      ¿No tienes una cuenta?
+      <a routerLink="/registrarse">Registrar</a>
+    </p>
+  </div>
+</ion-content>

@@ -1,0 +1,43 @@
+<ion-menu side="start" menuId="first" contentId="main-content">
+  <ion-header>
+    <ion-toolbar color="primary">
+      <ion-title class="ion-text-center">Lavadero Luxury</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content>
+    <ion-list>
+      <ion-item routerLink="/precio-servicio" routerDirection="forward" routerLinkActive="selected">
+        <ion-icon name="cash-outline" slot="start"></ion-icon>
+        <ion-label>💲 Precio del servicio</ion-label>
+      </ion-item>
+      <ion-item *ngIf="userRole === 'admin'" routerLink="/factura" routerDirection="forward" routerLinkActive="selected">
+        <ion-icon name="receipt-outline" slot="start"></ion-icon>
+        <ion-label>🛒 Factura</ion-label>
+      </ion-item>
+      <ion-item *ngIf="userRole === 'admin'" routerLink="/gestionventas" routerDirection="forward" routerLinkActive="selected">
+        <ion-icon name="stats-chart-outline" slot="start"></ion-icon>
+        <ion-label>📊 Gestion ventas</ion-label>
+      </ion-item>
+      <ion-item routerLink="/registro-vehiculo" routerDirection="forward" routerLinkActive="selected">
+        <ion-icon name="car-outline" slot="start"></ion-icon>
+        <ion-label>🚗 Registrar vehículo</ion-label>
+      </ion-item>
+      <ion-item routerLink="/nosotros" routerDirection="forward" routerLinkActive="selected">
+        <ion-icon name="information-circle-outline" slot="start"></ion-icon>
+        <ion-label>ℹ️ Acerca de nosotros</ion-label>
+      </ion-item>
+      <ion-item routerLink="/historial" routerDirection="forward" routerLinkActive="selected">
+        <ion-icon name="document-text-outline" slot="start"></ion-icon>
+        <ion-label>📜 Historial</ion-label>
+      </ion-item>
+      <ion-item routerLink="/reserva" routerDirection="forward" routerLinkActive="selected">
+        <ion-icon name="arrow-undo-outline" slot="start"></ion-icon>
+        <ion-label>🔙 Reserva</ion-label>
+      </ion-item>
+      <ion-item button (click)="logout()" color="danger">
+        <ion-icon name="log-out-outline" slot="start"></ion-icon>
+        <ion-label>🚪 Cerrar sesión</ion-label>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-menu>
