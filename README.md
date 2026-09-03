@@ -3,7 +3,7 @@
 📍 Santa María, Huila | Neiva, Huila  
 
 ### ¡Hola! 👋  
-Soy Daniel Felipe Cerquera Idrobo, estudiante de Ingeniería de Sistemas en la Corporación Universitaria del Huila (Corhuila), actualmente en quinto semestre. Desde siempre, me ha apasionado el mundo del desarrollo de software y la tecnología, enfocándome en la construcción de soluciones innovadoras y eficientes.  
+Soy Daniel Felipe Cerquera Idrobo, estudiante de Ingeniería de Sistemas en la Corporación Universitaria del Huila (Corhuila), actualmente en octavo semestre. Desde siempre, me ha apasionado el mundo del desarrollo de software y la tecnología, enfocándome en la construcción de soluciones innovadoras y eficientes.  
 
 ### Educación  
 - **Ingeniería de Sistemas** (En curso) - *Corporación Universitaria del Huila (Corhuila)*  
