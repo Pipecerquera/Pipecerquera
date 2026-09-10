@@ -2,7 +2,9 @@
 CONFIG
 FULL_NAME: Daniel Felipe Cerquera Idrobo
 GITHUB_USER: Pipecerquera
---> 
+-->
+
+**Daniel Felipe Cerquera Idrobo**  
 *Estudiante de Ingeniería de Sistemas | Desarrollo de Software | Análisis y Modelado*  
 📍 Santa María, Huila | Neiva, Huila  
 
