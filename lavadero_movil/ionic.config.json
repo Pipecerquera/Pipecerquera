@@ -1,7 +1,0 @@
-{
-  "name": "lavadero_movil",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
